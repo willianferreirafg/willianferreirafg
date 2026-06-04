@@ -2,25 +2,13 @@
 
 **`Programador`**
 
-Profissionalmente, há 2 anos atuando na área de TI, mas em contato com Informática e Computação desde os 7 anos. Tenho 21 anos de idade. Formado em Análise e Desenvolvimento de Sistemas.
+Desenvolvedor Full Stack com 2 anos de experiência em TI e formação em Análise e Desenvolvimento de Sistemas. Experiência sólida em Infraestrutura, Redes, Suporte Técnico e Análise de Sistemas. Atualmente focado em Java e Spring Boot para desenvolvimento e manutenção de sistemas e APIs, além de interesse em Linux e programação de baixo nível com C e C++.
 
-Anteriormente, já atuei (e ainda posso atuar, claro) em Infra, Redes, Suporte Técnico e Análise de Sistemas.
+### Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willian-fg)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willian.ferreira.fg11@gmail.com)
 
-Atualmente, meu foco é Desenvolvimento Full Stack, estando em migração do PHP para a linguagem Java e o framework Spring Boot, com foco na criação, evolução e manutenibilidade de sistemas e APIs.
-
-Sou muito ativo também em Linux (Ubuntu, Debian e Arch), C, C++ e Javax. Enfim, programação pura e dura de baixo nível.
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/willian-fg/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
-    </a>
-</p>
-
-<p align="left">
-    <a href="malito:willian.ferreira.fg11@gmail.com" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="40" alt="Email">
-    </a>
-</p>
+<hr>
 
 ### Linguagens e Tecnologias
 <img 
@@ -93,7 +81,15 @@ Sou muito ativo também em Linux (Ubuntu, Debian e Arch), C, C++ e Javax. Enfim,
     title="Docker" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="Postman"
+    title="Postman" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
 <img 
     align="left" 
