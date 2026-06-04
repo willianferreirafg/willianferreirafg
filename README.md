@@ -1,8 +1,8 @@
 # 🧑🏻‍💻 Willian Ferreira Gonçalves
 
-**`Desenvolvedor Full Stack`**
+**`Profissional de TI`**
 
-Desenvolvedor Full Stack com 2 anos de experiência em TI e formação em Análise e Desenvolvimento de Sistemas. Experiência sólida em Infraestrutura, Redes, Suporte Técnico e Análise de Sistemas. Atualmente focado em Java e Spring Boot para desenvolvimento e manutenção de sistemas e APIs, além de interesse em Linux e programação de baixo nível com C e C++.
+Profissional de TI com 2 anos de experiência em TI e formação em Análise e Desenvolvimento de Sistemas. Experiência sólida em Infraestrutura, Redes, Suporte Técnico e Análise de Sistemas. Atualmente focado em Java e Spring Boot para desenvolvimento e manutenção de sistemas e APIs, além de interesse em Linux e programação de baixo nível com C e C++.
 
 ### Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willian-fg)
