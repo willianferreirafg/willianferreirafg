@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Willian Ferreira Gonçalves
+# Willian Ferreira Gonçalves
 
 **`Profissional de TI`**
 
