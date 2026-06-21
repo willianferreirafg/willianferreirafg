@@ -2,9 +2,9 @@
 
 **`Profissional de TI`**
 
-Profissional de TI com 2 anos de experiência em TI e formação em Análise e Desenvolvimento de Sistemas. Experiência sólida em Infraestrutura, Redes, Suporte Técnico e Análise de Sistemas.
+Profissional de TI com 2 anos de experiência em TI e formação em Análise e Desenvolvimento de Sistemas. Experiência sólida em Infraestrutura, Redes, Suporte Técnico e Análise de Dados.
 
-Atualmente, focado em Java e Spring Boot para desenvolvimento e manutenção de sistemas e APIs, além de interesse em Linux e programação de baixo nível com C e C++.
+Aqui você encontrará meus projetos desenvolvidos em todas essas áreas.
 
 ### Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willian-fg)
